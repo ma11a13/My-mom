@@ -1,0 +1,223 @@
+body#main {
+    background-color: #f6c7c7;
+}
+#привет {
+    background-color: #ff467e;
+    text-align: center;
+    color:rgb(255, 226, 244);
+    padding: 0.5px 0px;
+    border: 5px solid #fd94b4;
+}
+#открытка {
+    background-color: #fd94b4;
+    text-align: center;
+    color:rgb(255, 226, 244);
+    padding: 0.5px 0px;
+    border: 5px solid #ff467e;
+    margin-top: 10px;
+}
+a.first{
+    color: rgb(255, 226, 244);
+}
+div.buttons {
+    background-color: #ff467e;
+    text-align: center;
+    color:rgb(255, 226, 244);
+    padding: 10px;
+    border: 5px solid #fd94b4;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 30px;
+    
+}
+
+
+
+body#photos {
+    background-color: #ffffff;
+}
+div#krasivaya {
+    background-color: #5c8d89;
+    color: #f0feef;
+    padding: 5px;
+    border: 5px solid #2a4845;
+    text-align: center;
+}
+
+img.yulias-photos {
+    width: 90%;
+    margin: 5%;
+}
+
+div.hi {
+    width: 40%;
+}
+
+#pervoe{
+    background-color: #9d0b28;
+    border: 5px solid #ff004d;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+#pervoe-text {
+    background-color: #ff004d;
+    border: 5px solid #9d0b28;
+    color: #fdd1da;
+    padding: 5px;
+    text-align: center;
+    margin: 5px 30px;
+    margin-bottom: 50px; 
+}
+
+#vtoroe {
+    background-color: #388e3c;
+    border: 5px solid #8bc34a;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+#vtoroe-text {
+    padding: 5px;
+    text-align: center;
+    background-color: #8bc34a;
+    border: 5px solid #388e3c;
+    color: #fff9c0;
+     margin: 5px 30px;
+    margin-bottom: 50px; 
+}
+#tretie {
+    background-color: #5c8d89;
+    border: 5px solid #74b49b;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+
+#tretie-text {
+    padding: 5px;
+    text-align: center;
+    background-color:#74b49b;
+    border: 5px solid #5c8d89;
+    color: #e8ffe7;
+     margin: 5px 30px;
+    margin-bottom: 50px; 
+}
+#chetvertoe {
+    background-color: #ff3757;
+    border: 5px solid #ff715a;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+#chetvertoe-text {
+    padding: 5px;
+    text-align: center;
+    background-color: #ff715a;
+    border: 5px solid #ff3757;
+    color: #ffe9dc;
+     margin: 5px 30px;
+    margin-bottom: 50px; 
+}
+#pyatoe {
+    background-color: #24527a;
+    border: 5px solid #5a9fb8;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+#pyatoe-text {
+    padding: 5px;
+    text-align: center;
+    background-color: #5a9fb8;
+    border: 5px solid #24527a;
+    color: #e3f6f5;
+     margin: 5px 30px;
+    margin-bottom: 50px; 
+}
+#shestoe {
+     background-color: #352961;
+    border: 5px solid #774181;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+#shestoe-text {
+     padding: 5px;
+    text-align: center;
+    background-color: #774181;
+    border: 5px solid #352961;
+    color: #f6e5e5;
+     margin: 5px 30px;
+    margin-bottom: 50px; 
+}
+
+div#lublu {
+    text-align: center;
+    background-color: #f12b6b;
+    border: 5px solid #fd94b4;
+    padding: 3px;
+    color: #f3dfe3;
+    margin-top: 30px;
+     margin: 5px 30px;
+    margin-bottom: 50px; 
+}
+
+#photos-index {
+    background-color: #5c8d89;
+    padding: 5px;
+    border: 5px solid #2a4845;
+    text-align: center;
+    margin-top: 10px;
+     margin: 5px 30px;
+    margin-bottom: 50px; 
+}
+#photos-index > a {
+    color: #f0feef;
+}
+
+
+
+body#photos-of-us {
+    background-color: oklch(83.3% 0.145 321.434);
+}
+
+div#best-photos-of-us-text, div#photosofus-index {
+    background-color: oklch(59.1% 0.293 322.896);
+    color: rgb(253, 238, 255);
+    border: 7px solid oklch(45.2% 0.211 324.591);
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+}  
+.usphotos {
+    width: 60%;
+    margin-top: 5px;
+}
+.bye {
+    width: 100%;
+    background-color: oklch(94.431% 0.04578 322.482);
+    text-align: center;
+    border: 5px double oklch(83.3% 0.145 321.434);
+    margin-bottom: 20px;
+    color: oklch(53.142% 0.25793 317.897);
+}
+div#photosofus-index > a {
+    color: rgb(253, 238, 255);
+}
+
+
+
+body#regards {
+    background-color: oklch(64.8% 0.2 131.684);
+}
+div#regards1 {
+    text-align: center;
+    background-color: oklch(96.7% 0.067 122.328);
+    border: 30px dashed oklch(76.8% 0.233 130.85);
+    color: oklch(45.3% 0.124 130.933);
+    padding: 15px;
+}
+div#regards-index {
+    background-color: oklch(96.7% 0.067 122.328);
+    padding: 10px;
+    border: 5px solid oklch(76.8% 0.233 130.85);
+    text-align: center;
+}
+div#regards-index > a {
+    color: oklch(45.3% 0.124 130.933);
+}
